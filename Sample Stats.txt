@@ -1,0 +1,8 @@
+Cast a Spell
+1
+Pray / Beseech
+2
+Persuade
+3
+Intuit
+1

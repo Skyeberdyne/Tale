@@ -1,0 +1,20 @@
+Each action has a set difficulty based off of how likely you would be to succeed
+using that action AND how effective it would be in the current situation.
+
+I.e. "Position" (how likely you are to succeed...)
+         vs.
+      "Effect"  (how effective the action would be right now...)
+
+Your hero has a set number of skills that they excel at, and others, they
+have nominal practice in; this means that the skills your hero has practiced
+are more likely to succeed than the ones they haven't.
+
+*-----------------------------------------------------------------------------*
+
+Would you like to learn more about actions?
+[Type "Yay" if yes, and "Nay" to Return to the Action Menu]
+
+*-----------------------------------------------------------------------------*
+
+BLAHBLAHBLAH
+THIS IS ALL INFO ABOUT ACTIONS N' STUFF

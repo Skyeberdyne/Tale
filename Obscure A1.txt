@@ -1,0 +1,69 @@
+BAD
+Your slumber has left you bereft of a single wit. You push your back into the trunk of the
+tree eyes widening in terror as the full moment of perception spreads across the old man's face.
+
+His eyes widen as well, filling with the knowledge that you tried to hide from him.
+
+|----------------------------------------------|
+| "Curse Kaeidrin! Calm yer' nerves, Estranio! |
+|----------------------------------------------|
+
+He reflexively grabs at the darkwood Harquebus, dropping the sack from his shoulder. 
+He isn't aiming it, but he is undoubtedly ready to...
+
+*-----------------------------------------------------------------------------*
+MIXED
+Your wits are about you, but your dreamless slumber has dulled their edge. You pull back,
+meaning to conceal your face; you do so, but in a way that causes suspicion. Throwing your
+hood up, you can barely see the edge of the old man's beard, but his stance
+has become less curious, and more defensive.
+
+|------------------------------------------------------------------------------------------|
+| "Mistake me not, Estranio, I thought ye' might be in dire straits, but it seems like you |
+| don't necessarily want the help of this poor old man.                                    |
+|------------------------------------------------------------------------------------------|
+
+The words "poor old man" hang on the air with bite. His tone asserted that he could very much
+take care of himself if danger was about. 
+His curious concern has now turned to suspect as he crosses his arms in front
+of his chest; the worn, darkwood-stock Harquebus tucked safely away.
+
+*-----------------------------------------------------------------------------*
+GOOD
+Your reflexes are sharp, and your wits keen. As the old man cocks his head down to get a good
+look at your face, you're able to turn away into the base of the moss-covered tree, propping
+your collar up as you do. He can't see anything.
+
+|-------------------------------------------------------------------------------------|
+| "Ah! I mean you no harm, Estranio. Its just that rare is the day I see someone else |
+| out here in the Hunting Holt. Most days its just me and Ciccia...well, me, Ciccia   |
+| and a whole host of Beastia a trapper would rather not run into."                   |
+|-------------------------------------------------------------------------------------|
+
+He sets the worn stock of the darkwood Harquebus in the dirt to the right of him,
+one hand on its long barrel. He drops the large burlap sack to the left of him, letting it slump
+carelessly into the dirt.
+
+He looks relaxed.
+
+*-----------------------------------------------------------------------------*
+CRITICAL
+Your reflexes are sharp, and your wits keen. Before the old man can look on any further,
+you're able to cover your face with the large, cloth hood attached to your worn cloak.
+Even in this daylight, he isn't able to see your features.
+
+|--------------------------------|
+| "I mean you no harm, Estranio. |
+|--------------------------------|
+
+His rotates the worn, darkwood-stock Harquebus around his body so that it hangs off of his back,
+away from any potential use.
+
+|---------------------------------------------------------------------------------------|
+| "Its usually just me and the mutt this far into the Holt. I have no quarrel with ye'. |
+| I'm called Orenzio Nogari, and if ye' see a woolly dog makin' a fool of 'erself, that  |
+| would be Ciccia. She may have juniper-for-brains, but she's got a nose for bitterbeak |
+| like no other."                                                                       |
+|---------------------------------------------------------------------------------------|
+
+*-----------------------------------------------------------------------------*
